@@ -4,7 +4,7 @@
 - 👀 I’m interested in geometric algebra and quantum mechanics
 - 🌱 I’m currently learning Python, HTML/CSS and JavaScript
 - 💞️ I’m looking to collaborate on creating online portfolios
-- 📫 How to reach me lshriver@protonmail.com
+- 📫 How to reach me sofiascriber@gmail.com
 
 <!---
 sofiascriber/sofiascriber is a ✨ super special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
