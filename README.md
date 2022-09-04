@@ -1,9 +1,14 @@
 # Welcome Back
 
 - 👋 Hi, I’m @sofiascriber
-- 👀 I’m interested in geometric algebra and quantum mechanics
-- 🌱 I’m currently learning Python, HTML/CSS and JavaScript
-- 💞️ I’m looking to collaborate on creating online portfolios
+- 🔰 I'm familiar with MATLAB and Python
+- 🌱 I’m currently learning Git/GitHub
+- 💞️ I’m looking for advice on working from home
+- 👀 My research interests include...   
+  - The Kuramoto model  
+  - Geometric algebra  
+  - Orch OR theory  
+  - Machine learning
 - 📫 How to reach me sofiascriber@gmail.com
 
 <!---
