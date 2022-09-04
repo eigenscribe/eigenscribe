@@ -3,13 +3,13 @@
 - 👋 Hi, I’m @sofiascriber
 - 🔰 I'm familiar with MATLAB and Python
 - 🌱 I’m currently learning Git/GitHub
-- 💞️ I’m looking for advice on pedagogically working from home
 - 👀 My research interests include...   
   - The Kuramoto model  
   - Long term potentiation
   - Geometric algebra  
   - Orch OR theory  
   - Machine learning
+- 💞️ I’m looking for advice on pedagogically working from home
 - 📫 How to reach me sofiascriber@gmail.com
 
 <!---
