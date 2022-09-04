@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @sofiascriber
 - 🔰 I'm familiar with MATLAB and Python
 - 🌱 I’m currently learning Git/GitHub
-- 💞️ I’m looking for advice on working from home
+- 💞️ I’m looking for advice on pedagogically working from home
 - 👀 My research interests include...   
   - The Kuramoto model  
   - Geometric algebra  
