@@ -6,6 +6,7 @@
 - 💞️ I’m looking for advice on pedagogically working from home
 - 👀 My research interests include...   
   - The Kuramoto model  
+  - Long term potentiation
   - Geometric algebra  
   - Orch OR theory  
   - Machine learning
