@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Git/GitHub
 - 👀 My research interests include...   
   - The Kuramoto model  
-  - Long term potentiation
+  - Cytoskeletal signaling
   - Geometric algebra  
   - Orch OR theory  
   - Machine learning
