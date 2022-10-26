@@ -1,16 +1,7 @@
 # Welcome Back
 
-- 👋 Hi, I’m @sofiascriber
-- 🔰 I'm familiar with MATLAB and Python
-- 🌱 I’m currently learning Git/GitHub
-- 👀 My research interests include...   
-  - The Kuramoto model  
-  - Cytoskeletal signaling
-  - Geometric algebra  
-  - Orch OR theory  
-  - Machine learning
-- 💞️ I’m looking for advice on pedagogically working from home
-- 📫 How to reach me sofiascriber@gmail.com
+> 📘[Calculus Tutorial](https://matthew-brett.github.io/teaching/vector_projection.html)  
+> 📐[Non-orthogonal bases](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2017/07/12-notes-6250-f16.pdf)
 
 <!---
 sofiascriber/sofiascriber is a ✨ super special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
