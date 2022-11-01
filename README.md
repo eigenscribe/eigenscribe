@@ -1,5 +1,9 @@
 # Welcome Back
 
+## Calculus Topics
+- [ ] Sandwich (or Squeeze) Theorem
+
+## Linear Algebra Practice
 > 📐[A Summary of Linear Algebra by John Mitchell](https://homepages.rpi.edu/~mitchj/handouts/linalg/)   
 > 📐[Non-orthogonal bases](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2017/07/12-notes-6250-f16.pdf)  
 
