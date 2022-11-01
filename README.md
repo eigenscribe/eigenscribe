@@ -1,7 +1,5 @@
 # Welcome Back
 
-## Calculus Topics
-- [ ] Sandwich (or Squeeze) Theorem
 
 ## Linear Algebra Practice
 > 📐[A Summary of Linear Algebra by John Mitchell](https://homepages.rpi.edu/~mitchj/handouts/linalg/)   
