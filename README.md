@@ -5,7 +5,7 @@
 > 📐[A Summary of Linear Algebra by John Mitchell](https://homepages.rpi.edu/~mitchj/handouts/linalg/)   
 > 📐[Non-orthogonal bases](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2017/07/12-notes-6250-f16.pdf)  
 
-> 📘[Calculus Tutorial](https://matthew-brett.github.io/teaching/vector_projection.html) 
+> 📘[Calculus Tutorial](https://matthew-brett.github.io/teaching/vector_projection.html)   
 > 🔰[Limits practice](https://tutorial.math.lamar.edu/Problems/CalcI/ComputingLimits.aspx)
 
 <!---
