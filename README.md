@@ -7,7 +7,10 @@
 > ⚒️[biVector.net](https://bivector.net/tools.html)
 
 ---
+## Self-Study
+> 🎲[STAT 500](https://online.stat.psu.edu/stat500/)
 
+---
 ## ✏️Practice Problems
 ### Linear Algebra Practice
 > 📐[A Summary of Linear Algebra by John Mitchell](https://homepages.rpi.edu/~mitchj/handouts/linalg/)   
