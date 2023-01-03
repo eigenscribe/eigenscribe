@@ -26,7 +26,13 @@ Geometric Algebra
 > Monte Carlo  
 > Annealing (heuristic)  
 > Renormalization (Feynman)   
-> Central Limit Theorem    
+> Central Limit Theorem   
+
+
+> Infotaxis  
+> Vagus nerve  
+> Permittivity of free space, $\varepsilon_0$  
+> Permeability of free space, $\mu_0$
 
 ---
 ## Self-Study
