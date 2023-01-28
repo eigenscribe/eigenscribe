@@ -2,9 +2,8 @@
 
 --- 
 
-## 📚Subjects
-Quantum Mechanics  
-Geometric Algebra  
+## 🔗Links
+- 📑[Kepler’s Laws Revisited](https://quantumredpill.wordpress.com/2013/01/19/keplers-laws-revisited/)   
 - ⚒️[biVector.net](https://bivector.net/tools.html)
 
 ---
@@ -35,7 +34,7 @@ Geometric Algebra
 > Permeability of free space, $\mu_0$
 
 ---
-## Self-Study
+## Subjects
 > 🎲[STAT 500](https://online.stat.psu.edu/stat500/)
 
 ---
