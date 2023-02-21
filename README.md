@@ -8,7 +8,13 @@
 
 ---
 ## 📔Topics
-> Noether's theroem  
+> Time dialation & gravity  
+> Stationary action principle
+>> The Lagranian  
+>> Contraint optimization  
+>> Conservation laws   
+>>>   Noether's theroem  
+>>   
 > The Second Law of Thermodynamics and the Law of Large Numbers  
 > Cannonical commutation relation    
 > Partition function  
@@ -19,8 +25,8 @@
 >> Cystoskeletal signaling  
 >> Microtutubules and quantum coherence    
 >> 
-> Time dialation  
-> Holographic principle  
+> Holographic principle    
+> 
 > Kuramoto model  
 > Monte Carlo  
 > Annealing (heuristic)  
