@@ -1,6 +1,6 @@
 # 📜Scriber Stuff
 ## 🪄Professor of Magical Studies
-### 💎Links
+### 💎Helpful Links
 - 📑[Kepler’s Laws Revisited](https://quantumredpill.wordpress.com/2013/01/19/keplers-laws-revisited/)   
 - 📐[awanderingmind - Home](https://www.awanderingmind.blog/)
 - 💫[https://quantum.country/qcvc](https://quantum.country/qcvc)
