@@ -1,5 +1,8 @@
 # 📜Scriber Stuff
 
+🦊🧪 https://gitlab.com/lshriver
+
+
 ### 💎Helpful Links
 - 📑[Kepler’s Laws Revisited](https://quantumredpill.wordpress.com/2013/01/19/keplers-laws-revisited/)   
 - 📐[awanderingmind - Home](https://www.awanderingmind.blog/)
