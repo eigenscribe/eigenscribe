@@ -7,7 +7,6 @@
 - 🌌[Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;)
 - 📑[Kepler’s Laws Revisited](https://quantumredpill.wordpress.com/2013/01/19/keplers-laws-revisited/)   
 - 📐[awanderingmind - Home](https://www.awanderingmind.blog/)
-- 💫[https://quantum.country/qcvc](https://quantum.country/qcvc)
 - 📊[https://www.statlect.com/](https://www.statlect.com/)
 ### 🔱Folina Sahlo
 - ⚒️[biVector.net](https://bivector.net/tools.html)
