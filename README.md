@@ -8,6 +8,7 @@
 - 📑[Kepler’s Laws Revisited](https://quantumredpill.wordpress.com/2013/01/19/keplers-laws-revisited/)   
 - 📐[awanderingmind - Home](https://www.awanderingmind.blog/)
 - 📊[https://www.statlect.com/](https://www.statlect.com/)
+- ⚛️[https://pennylane.ai/](https://pennylane.ai/)
 ### 🔱Folina Sahlo
 - ⚒️[biVector.net](https://bivector.net/tools.html)
 - 📊[grid.is](http://grid.is/)
