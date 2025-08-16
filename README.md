@@ -1,21 +1,12 @@
-# 📜Scriber Stuff
+👋 Welcome to Eigenscribe Works! 
 
-🦊🧪 https://gitlab.com/lshriver
+This is my space for portfolio projects, research exploration, and code playgrounds at the intersection of physical science, math, and AI. 
 
+- 🧪 **Interests:** statistical mechanics, quantum computing, bifurcation and phase-plane analysis, geometric algebra, and scientific software.
+- 🎯 **Goal:** build straightforward, educational, and technically/computationaly sound projects that bridge my academic background in biophysics with fundamental concepts in linear algebra. Alongside building a collection of projects I can be proud of, I aim to nurture my academic journey since graduating.
+- 📂 **Repositories:** a mix of ongoing work, prototypes, and polished porfolio pieces.
 
-### 💎Helpful Links
-- 🌌[Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;)
-- 📑[Kepler’s Laws Revisited](https://quantumredpill.wordpress.com/2013/01/19/keplers-laws-revisited/)   
-- 📐[awanderingmind - Home](https://www.awanderingmind.blog/)
-- 📊[https://www.statlect.com/](https://www.statlect.com/)
-- ⚛️[https://pennylane.ai/](https://pennylane.ai/)
-### 🔱Folina Sahlo
-- ⚒️[biVector.net](https://bivector.net/tools.html)
-- 📊[grid.is](http://grid.is/)
-        
----
-![renzo](https://user-images.githubusercontent.com/111261353/215251943-edab77e9-a113-401a-9266-cb7be792c7a1.png)
----
+Thanks for stopping by! I really appreciate your time and interest. Feel free to explore my repos, open issues, or connect through the links in my profile.
 
 <!---
 eigenscribe/eigenscribe is a ✨ super special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
