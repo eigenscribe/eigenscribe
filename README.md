@@ -1,4 +1,4 @@
-👋 Welcome to Eigenscribe Works! 
+👋 Welcome to Eigenscribe! 
 
 This is my space for portfolio projects, research exploration, and code playgrounds at the intersection of physical science, math, and AI. 
 
