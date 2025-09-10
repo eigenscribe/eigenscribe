@@ -1,6 +1,6 @@
 👋 Welcome to Eigenscribe! 
 
-This is my space for portfolio projects, research exploration, and code playgrounds at the intersection of physical science, math, and AI. 
+This is meant to serve as my own official 'hub' for portfolio projects, research exploration, and code playgrounds at the intersection of physical science, math, and AI. 
 
 - 🧐 **Interests:** statistical mechanics, quantum computing, bifurcation and phase-plane analysis, geometric algebra, and making pretty apps with pretty colors.
 - 🥅 **Goal:** build straightforward, educational, and technically/computationaly sound projects that bridge my academic background in neuroscience and chemistry with fundamental concepts in undergraduate and graduate level mathematics. My ultimate hope is to build a collection of projects I can be proud of and that 'document' my academic journey outside of university settings.
