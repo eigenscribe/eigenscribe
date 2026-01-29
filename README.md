@@ -2,7 +2,7 @@
 
 🧐 **Interests:** Applied Physics-Informed Machine Learning
 
-Thanks for stopping by! I really appreciate your time and interest. Feel free to explore my repos, open issues, or connect through the links in my profile.
+Thanks for stopping by! I really appreciate your time and interest. Feel free to explore my organizations, repos, open issues, or connect through the links in my profile.
 
 <!---
 eigenscribe/eigenscribe is a ✨ super special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
